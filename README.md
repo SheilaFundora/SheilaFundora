@@ -25,16 +25,15 @@
 </p> 
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=erielmejias99&show_icons=true&count_private=true&hide=stars,issues,contribs)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erielmejias99&layout=compact&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SheilaFundora&layout=compact&langs_count=6)
 
 
 ## Connect with me  
 <div align="center">
 <a href="mailto:sheilafundora04@gmail.com">
-<img alt="Gmail" width="26px" src="https://github.com/erielmejias99/erielmejias99/blob/master/asset/Gmail.svg" />
+<img alt="Gmail" width="26px" src="https://github.com/SheilaFundora/SheilaFundora/blob/master/asset/Gmail.svg" />
 </a>
 <a href="https:https://www.linkedin.com/in/sheila-fundora-7789b7215/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -51,7 +50,7 @@
 </div>
 
 <div align="center">
-<img src="https://img.shields.io/github/followers/erielmejias99.svg?style=social&label=Follow"></img>
+<img src="https://img.shields.io/github/followers/SheilaFundora.svg?style=social&label=Follow"></img>
 
 <img src="https://gpvc.arturio.dev/SheilaFundora"></img>
 </div>
