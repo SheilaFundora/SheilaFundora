@@ -26,8 +26,11 @@
 
 
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SheilaFundora&layout=compact&langs_count=6)
+<div style="display: flex; justify-content: space-between">
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SheilaFundora&layout=compact&langs_count=6)
+ 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SheilaFundora&hide=contribs,prs)
+</div>
 
 
 ## Connect with me  
@@ -53,6 +56,8 @@
 
 <div align="center">
 <img src="https://img.shields.io/github/followers/SheilaFundora.svg?style=social&label=Follow"></img>
+
+<br/>
 
 <img src="https://gpvc.arturio.dev/SheilaFundora"></img>
 </div>
