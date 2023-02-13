@@ -25,23 +25,12 @@
 </p> 
 
 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SheilaFundora&layout=compact&langs_count=6)
 
-<div style="display: flex; justify-content: space-between">
- 
- <div style="width: 50%">
- 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SheilaFundora&layout=compact&langs_count=6)
- 
- </div>
 
- <div style="width: 50%">
+ <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SheilaFundora&hide=contribs,prs) -->
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erielmejias99&hide=contribs,prs)
 
-</div>
-
- 
-</div>
 
 
 ## Connect with me  
