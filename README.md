@@ -2,7 +2,7 @@
  
  ---
 <p align="center">
- Go/Golang,Go-Kit
+ Languages & Technologies
 </p>
 
 <p align="center"> 
@@ -10,8 +10,6 @@
  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-
-[//]: # ( &#40;poner boostarp, redux, mariaDB &#41; )
  <img alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
  <img alt="PHP" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
@@ -32,7 +30,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erielmejias99&layout=compact&langs_count=6)
 
-<img src="https://github-profile-trophy.vercel.app/?username=erielmejias99&column=1" alt="erielmejias99" /> 
 
 ## Connect with me  
 <div align="center">
@@ -56,5 +53,5 @@
 <div align="center">
 <img src="https://img.shields.io/github/followers/erielmejias99.svg?style=social&label=Follow"></img>
 
-<img src="https://gpvc.arturio.dev/erielmejias99"></img>
+<img src="https://gpvc.arturio.dev/SheilaFundora"></img>
 </div>
