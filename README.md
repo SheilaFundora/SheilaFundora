@@ -10,8 +10,9 @@
  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<!-- (poner boostarp, redux, mariaDB ) -->
- <img alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> -->
+
+[//]: # ( &#40;poner boostarp, redux, mariaDB &#41; )
+ <img alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
  <img alt="PHP" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
@@ -20,18 +21,18 @@
  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-13137A?style=for-the-badge&logo=mysql&logoColor=white" /> 
  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-347A13?style=for-the-badge&logo=postgresql&logoColor=white" />
- <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-lightgreen?style=for-the-badge&logo=mongodb&logoColor=4EA94B" /> -->
+ <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-lightgreen?style=for-the-badge&logo=mongodb&logoColor=4EA94B" /> 
  <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
  <img alt="PostMan" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
 </p> 
 
-<!--
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=erielmejias99&show_icons=true&count_private=true&hide=stars,issues,contribs)
--->
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erielmejias99&layout=compact&langs_count=6)
 
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=erielmejias99&column=1" alt="erielmejias99" /> -->
+<img src="https://github-profile-trophy.vercel.app/?username=erielmejias99&column=1" alt="erielmejias99" /> 
 
 ## Connect with me  
 <div align="center">
