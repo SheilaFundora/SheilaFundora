@@ -53,7 +53,7 @@
  <a href="https://twitter.com/sheila_fundora" target="_blank">
   <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
  </a>
- <a href="https://www.instagram.com/sheyfg04/" target="_blank">
+ <a href="https://www.instagram.com/shey__fg/" target="_blank">
   <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
  </a>
  <a href="https://www.facebook.com/sheila.fundora.7/" target="_blank">
@@ -72,6 +72,4 @@
 <img src="https://img.shields.io/github/followers/SheilaFundora.svg?style=social&label=Follow"></img>
 
 <br/>
-
-<img src="https://gpvc.arturio.dev/SheilaFundora"></img>
 </div>
